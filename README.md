@@ -23,7 +23,7 @@
 [twitter]: https://twitter.com/jamesqquick
 [linkedin]: https://linkedin.com/in/jamesqquick
 
-<--
+<!--
 [youtube]: https://youtube.com/jamesqquick
 [website]: https://jamesqquick.com
 [twitch]: https://twitch.tv/jamesqquick

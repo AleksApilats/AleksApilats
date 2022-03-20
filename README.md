@@ -7,7 +7,7 @@
 - 💬 Ask me about anything but you might not get anwser
 <!-- - 📫 How to reach me: -->
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Sometimes I think that I am really good at coding ;)
+- ⚡ Fun fact: Sometimes I think that I am really good at coding :wink:
 
 🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
@@ -20,8 +20,8 @@
 -->
 
 
-[twitter]: https://twitter.com/jamesqquick
-[linkedin]: https://linkedin.com/in/jamesqquick
+[twitter]: https://twitter.com/aleksApilats
+[linkedin]: https://linkedin.com/in/aleksandrsapilats/
 
 <!--
 [youtube]: https://youtube.com/jamesqquick

@@ -5,10 +5,9 @@
 - 👯 I’m looking to collaborate on any projects that require skills above.
 - 🤔 I’m looking for help with expanding my newly gained knowledge and experience of full-stack development
 - 💬 Ask me about anything but you might not get anwser
-<!-- - 📫 How to reach me: -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sometimes I think that I am really good at coding :wink:
-
+<!-- - 📫 How to reach me: -->
 🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
 <!--

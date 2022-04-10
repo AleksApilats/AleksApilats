@@ -1,6 +1,6 @@
 ### Hello! 👋 My name is Aleks! I am a Full-Stack Developer in the making! 
 
-- 🔭 After completing School Of Code Bootcamp I'm working on becoming a Junior Full-Stack Developer
+- 🔭 Recent School Of Code Bootcamp graduate I'm wlooking for my first Junior Web Developer role
 - 🌱 I’m currently mastering HTML, CSS, JavaScript, React, Node, Express, PostgreSQL, Next.js, etc
 - 👯 I’m looking to collaborate on any projects that require skills above.
 - 🤔 I’m looking for help with expanding my newly gained knowledge and experience of full-stack development

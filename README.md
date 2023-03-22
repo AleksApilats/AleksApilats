@@ -1,7 +1,7 @@
 ### Hello! 👋 My name is Aleks! I am a Junior DevOps Engineer in the making! 
 
 - 🔭 Recent School Of Code Bootcamp graduate I'm wlooking for my first Junior Web Developer role
-- 🌱 I’m currently mastering MS Azure, Azure DevOps, PowerShell, YAML, etc
+- 🌱 I’m currently mastering MS Azure, Azure DevOps, PowerShell, YAML, Terraform, etc
 - 👯 I’m looking to collaborate on any projects that require skills above.
 - 🤔 I’m looking for help with expanding my newly gained knowledge and experience of full-stack development
 - 💬 Ask me about anything but you might not get anwser
